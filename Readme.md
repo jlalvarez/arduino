@@ -26,7 +26,7 @@ alta y azul si es baja
 
 [Más info...](proyecto4)
 
-# Proyecto 5: Display 7 Segmentos
+## Proyecto 5: Display 7 Segmentos
 Display 7 segmentos con botones para incremento y decremento
 
 [Más info...](proyecto5)

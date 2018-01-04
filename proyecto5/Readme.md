@@ -1,4 +1,4 @@
-# 5.- Display 7 Segmentos
+# Proyecto 5: Display 7 Segmentos
 Display 7 segmentos de anodo común con botones para incremento y decremento
 
 #### Especificaciones
