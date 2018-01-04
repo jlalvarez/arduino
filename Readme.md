@@ -1,8 +1,10 @@
 # Proyectos Arduino
 
-## 1.- Boton y led
+## 1.- Botón y led
 Pulsa el botón y se enciende el led y vuelves a pulsar y se apaga
 Se controla el rebote con un delay de 20 mlseg.
+
+![Circuito](p1_boton/circuito.png)
 
 #### Componentes
 1	Arduino Uno R3
@@ -15,6 +17,8 @@ Se controla el rebote con un delay de 20 mlseg.
 Incluye dos proyectos y fade-in y fade-out de un led y
 otro led controlado por el potenciometro
 
+![Circuito](p2_potenciometro/circuito.png)
+
 #### Componentes
 1	Arduino Uno R3
 2	330 ohm Resistor
@@ -25,7 +29,7 @@ otro led controlado por el potenciometro
 ## 3.- Potenciometros y led RGB
 Tres potenciometros controlan los colores rojo, verde y azul de un led RGB
 
-![Circuito](p1_boton/circuito.png)
+![Circuito](p3_SerialPotsLedRGB/circuito.png)
 
 #### Componentes
 1	Arduino Uno R3
@@ -43,4 +47,6 @@ alta y azul si es baja
 1	Temperature Sensor [TMP36]
 1	LED RGB
 2	330 ohm Resistor
+
+![Circuito](p4_sensorTemperatura/circuito.png)
 
