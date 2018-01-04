@@ -1,5 +1,5 @@
 # 5.- Display 7 Segmentos
-Display 7 segmentos con botones para incremento y decremento
+Display 7 segmentos de anodo común con botones para incremento y decremento
 
 #### Especificaciones
 ![Circuito](7segLed.gif)
