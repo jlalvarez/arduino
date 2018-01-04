@@ -14,5 +14,7 @@ en la segunda con una función antirebote.
 ![Circuito](circuito.png)
 
 #### Código
-[Ver código (v1)](codigo.ino)
-[Ver código (v1)](codigo2.ino)
+
+- [Ver código (v1)](codigo.ino)
+
+- [Ver código (v2)](codigo2.ino)
