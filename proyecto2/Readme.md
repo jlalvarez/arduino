@@ -1,4 +1,4 @@
-## 2.- Potenciometro y led
+# 2.- Potenciometro y led
 Incluye dos proyectos y fade-in y fade-out de un led y
 otro led controlado por el potenciometro
 

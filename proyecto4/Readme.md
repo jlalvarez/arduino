@@ -1,4 +1,4 @@
-## 4.- Sensor de temperatura con led RGB
+# 4.- Sensor de temperatura con led RGB
 Según la temperatura del sensor el led RGB se muestra rojo si la temperatura es
 alta y azul si es baja
 
