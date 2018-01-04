@@ -12,8 +12,9 @@ otro led controlado por el potenciometro
 
 [Más info...](proyect2)
 
-## 3.- Potenciometros y led RGB
-Tres potenciometros controlan los colores rojo, verde y azul de un led RGB
+## 3.- Comunicación Serie con tres Potenciometros y led RGB
+Tres potenciometros controlan los colores rojo, verde y azul de un led RGB y los
+se muestran por serial los compotentes rojo, verde y azul de los potenciometros.
 
 [Más info...](proyect3)
 

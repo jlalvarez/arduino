@@ -1,5 +1,6 @@
 ## 3.- Potenciometros y led RGB
-Tres potenciometros controlan los colores rojo, verde y azul de un led RGB
+Tres potenciometros controlan los colores rojo, verde y azul de un led RGB y los
+se muestran por serial los compotentes rojo, verde y azul de los potenciometros.
 
 #### Componentes
 * 1	Arduino Uno R3
