@@ -13,4 +13,4 @@ Se controla el rebote con un delay de 20 mlseg.
 ![Circuito](circuito.png)
 
 #### Código
-[Ver código](bonton-led.ino)
+[Ver código](codigo.ino)
