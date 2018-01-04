@@ -1,6 +1,7 @@
 # Proyecto 1: Botón y led
 Pulsa el botón y se enciende el led y vuelves a pulsar y se apaga
-Se controla el rebote con un delay de 20 mlseg.
+En la primera versión, se controla el rebote con un delay de 20 mlseg y 
+en la segunda con una función antirebote.
 
 #### Componentes
 * 1	Arduino Uno R3
@@ -13,4 +14,5 @@ Se controla el rebote con un delay de 20 mlseg.
 ![Circuito](circuito.png)
 
 #### Código
-[Ver código](codigo.ino)
+[Ver código (v1)](codigo.ino)
+[Ver código (v1)](codigo2.ino)

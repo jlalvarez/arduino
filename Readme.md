@@ -1,10 +1,9 @@
 # Proyectos Arduino
 Proyectos basados en el curso de Arduino de [Código Facilito](https://codigofacilito.com/cursos/Arduino)
-e implementado con [ThinkerCad](https://www.tinkercad.com).
+e implementados con [ThinkerCad](https://www.tinkercad.com).
 
 ## Proyecto 1: Botón y led
-Pulsa el botón y se enciende el led y vuelves a pulsar y se apaga
-Se controla el rebote con un delay de 20 mlseg.
+Pulsa el botón y se enciende el led y vuelves a pulsar y se apaga.
 
 [Más info...](proyecto1)
 
