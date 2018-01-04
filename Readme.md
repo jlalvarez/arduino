@@ -4,7 +4,7 @@
 Pulsa el botón y se enciende el led y vuelves a pulsar y se apaga
 Se controla el rebote con un delay de 20 mlseg.
 
-[GitHub][p1_boton]
+[Más info](p1_boton)
 
 ## 2.- Potenciometro y led
 Incluye dos proyectos y fade-in y fade-out de un led y

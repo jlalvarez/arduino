@@ -2,7 +2,7 @@
 Pulsa el botón y se enciende el led y vuelves a pulsar y se apaga
 Se controla el rebote con un delay de 20 mlseg.
 
-![Circuito](p1_boton/circuito.png)
+![Circuito](circuito.png)
 
 #### Componentes
 * 1	Arduino Uno R3
