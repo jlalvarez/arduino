@@ -30,3 +30,10 @@ alta y azul si es baja
 Display 7 segmentos con botones para incremento y decremento
 
 [Más info...](proyecto5)
+
+## Proyecto 6: Sensor Ultrasónico
+Sensor ultrasónico con un zumbador y un led que funcionan cuando el sensor
+detecta un objeto a menos de 100cm, incrementando el parpadeo y el zumbido 
+cuando se reduce la distancia.
+
+[Más info...](proyecto6)
