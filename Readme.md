@@ -37,3 +37,8 @@ detecta un objeto a menos de 100cm, incrementando el parpadeo y el zumbido
 cuando se reduce la distancia.
 
 [Más info...](proyecto6)
+
+## Proyecto 7: ServoMotor
+Servomotor controlado por un potenciometro.
+
+[Más info...](proyecto7)
